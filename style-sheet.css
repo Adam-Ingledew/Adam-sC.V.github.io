@@ -54,7 +54,7 @@
 	position: relative;
 	z-index: -2;
 	width: 1200px;
-	height: 1375px;
+	height: 1400px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	background-color: #ffffff;
@@ -125,20 +125,20 @@
 	padding-top: 25px;
 }
 .qual-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 1000px;
-  margin: auto;
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 1000px;
+	margin: auto;
 }
 
 td, th {
-  border: 1px solid #E2E2E2;
-  text-align: left;
-  padding: 8px;
+	border: 1px solid #E2E2E2;
+	text-align: left;
+	padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #E2E2E2;
+	background-color: #E2E2E2;
 }
 .workXpTitle {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -149,10 +149,10 @@ tr:nth-child(even) {
 	padding-top: 25px;
 }
 .workXpTable {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 1000px;
-  margin: auto;
+ 	font-family: arial, sans-serif;
+ 	border-collapse: collapse;
+	width: 1000px;
+	margin: auto;
 }
 .skills-wrapper{ 
 	margin-bottom: 15px;
@@ -254,35 +254,42 @@ tr:nth-child(even) {
 	padding-top: 15px;
 	padding-left: 25px;
 }
-
-.follow {
-	float: left;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 18px;
-	padding-right: 200px;
-	margin-right: 65px;
-}
 .footer-links {
-	float: left;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
 	padding-left: 25px;
 	padding-right: 50px;
 }
-.steam-logo {
-	float: left;
-	margin: 10px;
-	padding: 20px;
-	width: 100px;
-	height: 100px;
+.footerLink {
+	margin: 15px;
+	padding: 5px;
 }
-.sololearn-logo {
-	float: left;
-	margin: 10px;
-	padding: 20px;
-	width: 100px;
-	height: 100px;
+.steamLink {
+	margin: 15px;
+	padding-top: 50px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 325px;
+	width: 50px;
+	height: 50px;
 }
+.soloLearnLink {
+	margin: 15px;
+	padding-top: 50px;
+	padding: 5px;
+	width: 50px;
+	height: 50px;
+}
+.gitHubLink {
+	margin: 15px;
+	padding-top: 50px;
+	padding: 5px;
+	width: 50px;
+	height: 50px;
+}
+/*
+................This is the current area being altered............
+*/
 .info-header {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 25px;
