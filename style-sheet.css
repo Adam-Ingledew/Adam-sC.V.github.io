@@ -36,7 +36,7 @@
 }
 .third-partition {
 	width: 1200px;
-	height: 1310px;
+	height: 1700px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	background-color: #ffffff;
@@ -54,7 +54,7 @@
 	position: relative;
 	z-index: -2;
 	width: 1200px;
-	height: 1400px;
+	height: 1375px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	background-color: #ffffff;
@@ -156,7 +156,7 @@ tr:nth-child(even) {
 }
 .skills-wrapper{ 
 	margin-bottom: 15px;
-	padding-bottom: 350px; /* !!! ATTENTION !!! */
+	padding-bottom: 400px; /* !!! ATTENTION !!! */
 }
 .skills-header {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -196,6 +196,28 @@ tr:nth-child(even) {
 	font-family: arial, sans-serif;
 	list-style: circle;
 	line-height: 1.6;
+}
+.achievements-wrapper {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding-bottom: 15px;
+}
+.achievements-header {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 50px;
+	border-top: 2px solid black;
+	padding-top: 25px;
+}
+.sub-header {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 30px;
+}
+.description {
+	font-family: arial, sans-serif;
+	font-size: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-indent: 30px;
 }
 .interests-header {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
