@@ -156,7 +156,7 @@ tr:nth-child(even) {
 }
 .skills-wrapper{ 
 	margin-bottom: 15px;
-	padding-bottom: 400px; /* !!! ATTENTION !!! */
+	padding-bottom: 375px; /* !!! ATTENTION !!! */
 }
 .skills-header {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
